@@ -3,7 +3,7 @@ This project explores an exaggerated form of the reality of being human in the a
 <div align="center"> https://humain.carrd.co/ </div>
   
   
- Used: 
+ Built with: 
 - [First Order Motion Model for Image Animation](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_bibi.ipynb)
 - [Write with Transformer GPT-2](https://transformer.huggingface.co/doc/gpt2-large)
 - [Sassbook AI Writer](https://sassbook.com/ai-writer)
